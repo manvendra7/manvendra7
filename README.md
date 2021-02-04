@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Machine Learning Developer and Trainer at Codegnan IT Solutions
+🔭 I’m currently working as Machine Learning Developer and Trainer at Codegnan IT Solutions
 - 🌱 I’m currently learning about 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
