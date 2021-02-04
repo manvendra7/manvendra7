@@ -10,13 +10,16 @@ Skills - Python, SQL, Sk-Learn, NumPy, Pandas, Data Visualization, Data Cleaning
 
 [Reference Book on Feature Encoding](https://github.com/manvendra7/Feature-Encoding) - In this book i have covered all the feature encoding techniques from basics to advance level.
 
-Projects - Worked on IEE ECIS FRAUD detection and build LGBM model  with 87% accuracy to predict the fraudulent transactions.  As the data was highly imbalanced the metric used was ROC-AUC score.
+#### Projects - 
+- Worked on IEE ECIS FRAUD detection and build LGBM model  with 87% accuracy to predict the fraudulent transactions.  As the data was highly imbalanced the metric used was ROC-AUC score.
 - Drug Sentiment Analysis - Build a model to predict the sentiment of the People from the reviews of the drugs. 
 
-WebScraping -  Scrapped Data of 7 million schools of Uttar Pradesh using Python's BeautifulSoup and requests library.
+- WebScraping -  Scrapped Data of 7 million schools of Uttar Pradesh using Python's BeautifulSoup and requests library.
 - Scrapped Data from makaan.com of the apartments in the Hyderabad city.
 
-I have trained 300+ students in python and Machine Learning. And have delivered 25+ hours of recorded course on Python and Data Analysis.
+#### **Training and Mentoring** 
+- I have trained 300+ students in python and Machine Learning. And have delivered 25+ hours of recorded course on Python and Data Analysis.
 
 Reach out to me at below email id for collaborations, ideas and opportunities -
-Email - maanz46.ms@gmail.com
+- Email - maanz46.ms@gmail.com
+- Linkedin - https://www.linkedin.com/in/me-manvendra/
